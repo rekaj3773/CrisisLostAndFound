@@ -87,12 +87,14 @@ Here's a [good summary article for Canada:](https://www.lawnow.org/all-is-not-lo
  **Where to set up:**  
 - **Traveling to the affected location:**
     - Secure a location to store items in relative safety and security without breaking the bank.  Renting a box truck similar to one of these will suffice.  Dry, locks at night.  Scale as needed.
+    ![Wikipedia Box Truck](https://github.com/rekaj3773/CrisisLostAndFound/blob/master/boxtruckwikipedia.jpg)
     - *Note: sometimes local storage companies are also inclined to help or partner.  They might offer you some steep discounts on storage trucks as a donation.  If so, take them up on their kindness and don't forget to mention their donation at every opportunity.*
    - Secure a location to set up shop.
      - Think twice about a spot before setting up shop.
      - You don't want to move lost and found as you might become part of what has gone missing.
    - Secure a shelter from the weather.  
      - A good pop up tent will do just fine.  Adjust for weather patterns in your area.
+     ![Wikipedia Pop Up Tent](https://github.com/rekaj3773/CrisisLostAndFound/blob/master/popuptentwikipedia.jpg)
    - Secure a table and comfortable chairs.  
      - If all goes according to plan, you're going to be there for some time so get comfortable.
    - Consider lodgings.  
@@ -157,7 +159,7 @@ Here's a [good summary article for Canada:](https://www.lawnow.org/all-is-not-lo
 	
 	
 	This seemingly simple interaction can get rather complicated.  It may be easiest to view it on a diagram.
-  
+        ![Flowchart](https://github.com/rekaj3773/CrisisLostAndFound/blob/master/flowchartV1.png)
   
 
 
