@@ -12,6 +12,7 @@
 Use it as a 'How-to' guideline if you want to set up your own Lost and Found and help.
 
 #### Disclaimer
+I am just your average guy.  I don't know everything, just have put some thoughts towards this topic.  If you have items to add, please create a pull request and add them!
 
 #### The Big Questions
 
@@ -86,35 +87,35 @@ https://www.lawnow.org/all-is-not-lost-law-lost-and-found/
     - After mobile tower service is restored
 
  **Where to set up:**  
-##### Traveling to the affected location:
-  - Secure a location to store items in relative safety and security without breaking the bank.  Renting a box truck similar to one of these will suffice.  Dry, locks at night.  Scale as needed.
-  - *Note: sometimes local storage companies are also inclined to help or partner.  They might offer you some steep discounts on storage* trucks as a donation.  If so, take them up on their kindness and don't forget to mention their donation at every opportunity.
- - Secure a location to set up shop.
-   - Think twice about a spot before setting up shop.
-   - You don't want to move lost and found as you might become part of what has gone missing.
- - Secure a shelter from the weather.  
-   - A good pop up tent will do just fine.  Adjust for weather patterns in your area.
- - Secure a table and comfortable chairs.  
-   - If all goes according to plan, you're going to be there for some time so get comfortable.
- - Consider lodgings.  
-   - Are you in a cot at the Lost and Found site.  Probably not.  And please don't sleep in the truck.  The police and neighbors will get upset after a day or two of this.  
-   - Your enthusiam for leading and continuing this Lost and Found effort must remain at a high.  Try to find lodgings nearby to sleep comfortably.
-			Important note: This may be VERY hard to come by as lodgings typically grow scarce during crisis.  Plan accordingly.  (I don't mind asking to borrow a camper and set up shop )
- - Consider having some water and/or other offerings donated.  
-   - Many people have been through quite a lot, and even if you do not have their 
+- **Traveling to the affected location:**
+    - Secure a location to store items in relative safety and security without breaking the bank.  Renting a box truck similar to one of these will suffice.  Dry, locks at night.  Scale as needed.
+    - *Note: sometimes local storage companies are also inclined to help or partner.  They might offer you some steep discounts on storage trucks as a donation.  If so, take them up on their kindness and don't forget to mention their donation at every opportunity.*
+   - Secure a location to set up shop.
+     - Think twice about a spot before setting up shop.
+     - You don't want to move lost and found as you might become part of what has gone missing.
+   - Secure a shelter from the weather.  
+     - A good pop up tent will do just fine.  Adjust for weather patterns in your area.
+   - Secure a table and comfortable chairs.  
+     - If all goes according to plan, you're going to be there for some time so get comfortable.
+   - Consider lodgings.  
+     - Are you in a cot at the Lost and Found site.  Probably not.  And please don't sleep in the truck.  The police and neighbors will get upset after a day or two of this.  
+     - Your enthusiam for leading and continuing this Lost and Found effort must remain at a high.  Try to find lodgings nearby to sleep comfortably.
+      - Important note: This may be VERY hard to come by as lodgings typically grow scarce during crisis.  Plan accordingly.  (I don't mind asking to borrow a camper and set up shop )
+   - Consider having some water and/or other offerings donated.  
+     - Many people have been through quite a lot, and even if you do not have their 
 			missing item, a gesture or water can go a long way in unmeasurable conforting.
- - Consider getting postage donated
-   - You might be able to send out some items to 
+   - Consider getting postage donated
+     - You might be able to send out some items to 
 			people who have been displaced or traveled out of driving range
-##### Setting up online:
- - *Note: There are likely hundreds of acceptable ways to set up an online lost and found.*
- - You may want to balance ease of use/start up with cost.
- - A simple, clean, highly accessible mechanism is using Facebook.
- - Create a group on Facebook and have the Lost and Found Staff monitor and administer the page.  
- - Encourage communication and requests.  Use this as your central communications hub.
- - Feel free to advertise using low cost (like some Facebook advertising if you have the budget) or no cost mechanisms (like Craigslist posts) to point people to your Facebook page.
- - Create pictures of FOUND  items.  Create postings of LOST items.
- - Encourage friends to share.
+- **And/Or Setting up online:**
+   - *Note: There are likely hundreds of acceptable ways to set up an online lost and found.*
+   - You may want to balance ease of use/start up with cost.
+   - A simple, clean, highly accessible mechanism is using Facebook.
+   - Create a group on Facebook and have the Lost and Found Staff monitor and administer the page.  
+   - Encourage communication and requests.  Use this as your central communications hub.
+   - Feel free to advertise using low cost (like some Facebook advertising if you have the budget) or no cost mechanisms (like Craigslist posts) to point people to your Facebook page.
+   - Create pictures of FOUND  items.  Create postings of LOST items.
+   - Encourage friends to share.
 		
 	
 - Determining what items to display: 
@@ -173,3 +174,5 @@ https://www.lawnow.org/all-is-not-lost-law-lost-and-found/
 	 - Usually a written request and permission can be granted by a local civic organization such as YMCA.
 	 - They may allow for any uncollected items to be held for extended duration, after you leave, before being donated or trashed.
 
+#### Credits
+I could not have done this without the encouragement of Jeannie Esti.  Her sharing details and lost and found ideas has been crucial to this project!
