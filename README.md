@@ -49,13 +49,13 @@ Is it a team?  A team is helpful, but now you are a manager, adding in a whole n
 
 ##### Start with Actual Laws.
 Now, we aren't lawyers here, so please do not take this as legal advice from law professionals.  Take any specific questions up with someone who has practiced law.
-That aside, assuming you are in the US, the federal laws are best summarized as follows:
-Items are broken down into categories of misplaced, abandoned or lost.  
-It is likely that noone is purposefully abandoning an item in crisis, and it is equally unlikley we have anyone placing an item down purposefully but forgetting the item.
-Thus, for ease of assumption, we will consider all items in the 'lost' category.  
-If an item is lost, the finder may make a claim to item that is only overruled by the true owner.  The goal is that a finder will give a reasonable effort to find a true owner.
-Wikedia gives a good summary of the different types and history: 
-https://en.wikipedia.org/wiki/Lost,_mislaid,_and_abandoned_property
+That aside, assuming you are in the US, the following is my best attempt to paraphrase and summarize the US federal laws:
+>There exist three major categories of items;  *misplaced*, *abandoned* or **lost**.  
+*Note: It is likely that noone is purposefully abandoning an item in crisis, and it is equally unlikley we have anyone placing an item down purposefully but forgetting the item.
+Thus, for ease of assumption, we will consider all items in the 'lost' category. * 
+>If an item is lost, the finder may make a claim to item that is only overruled by the true owner.  The goal is that a finder will give a reasonable effort to find a true owner.
+Wikedia gives a [good summary of the different types and history of the laws:] 
+(https://en.wikipedia.org/wiki/Lost,_mislaid,_and_abandoned_property)
 
 Some states themselves have further laws on top of federal law.  Make sure to check on your State law to see any further codes.
 E.g. Michican adds additional rule such as further breaks down item types to include (collectible currency, hazardous materials, etc.) and adds requirement to post on public forum any lost item in attempt to contact true owner before ownership is taken.
@@ -68,8 +68,7 @@ if you're not in the US.  Please make sure you consult your national and local l
 Individual states are different, like (example).
 Make sure you know what your state will require you to do.
 
-Here's a good summary article for Canada:
-https://www.lawnow.org/all-is-not-lost-law-lost-and-found/
+Here's a [good summary article for Canada:](https://www.lawnow.org/all-is-not-lost-law-lost-and-found/)
 
 
 
