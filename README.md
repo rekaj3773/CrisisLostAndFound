@@ -54,8 +54,7 @@ That aside, assuming you are in the US, the following is my best attempt to para
 *Note: It is likely that noone is purposefully abandoning an item in crisis, and it is equally unlikley we have anyone placing an item down purposefully but forgetting the item.
 Thus, for ease of assumption, we will consider all items in the 'lost' category. * 
 >If an item is lost, the finder may make a claim to item that is only overruled by the true owner.  The goal is that a finder will give a reasonable effort to find a true owner.
-Wikedia gives a [good summary of the different types and history of the laws:] 
-(https://en.wikipedia.org/wiki/Lost,_mislaid,_and_abandoned_property)
+Wikipedia gives a [good summary of the different types and history of the laws:](https://en.wikipedia.org/wiki/Lost,_mislaid,_and_abandoned_property)
 
 Some states themselves have further laws on top of federal law.  Make sure to check on your State law to see any further codes.
 E.g. Michican adds additional rule such as further breaks down item types to include (collectible currency, hazardous materials, etc.) and adds requirement to post on public forum any lost item in attempt to contact true owner before ownership is taken.
