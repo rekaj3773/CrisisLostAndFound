@@ -56,18 +56,20 @@ Thus, for ease of assumption, we will consider all items in the 'lost' category.
 >If an item is lost, the finder may make a claim to item that is only overruled by the true owner.  The goal is that a finder will give a reasonable effort to find a true owner.
 Wikipedia gives a [good summary of the different types and history of the laws:](https://en.wikipedia.org/wiki/Lost,_mislaid,_and_abandoned_property)
 
+Individual states are different.
+Make sure you know what your state will require you to do.
+
 Some states themselves have further laws on top of federal law.  Make sure to check on your State law to see any further codes.
-E.g. Michican adds additional rule such as further breaks down item types to include (collectible currency, hazardous materials, etc.) and adds requirement to post on public forum any lost item in attempt to contact true owner before ownership is taken.
+*E.g. Michican adds additional rule such as further breaks down item types to include (collectible currency, hazardous materials, etc.) and adds requirement to post on public forum any lost item in attempt to contact true owner before ownership is taken.*
 
 Some states (e.g. Florida) require that everything be reported to the local law enforcement. 
 
 Make sure you know your laws.
 
 if you're not in the US.  Please make sure you consult your national and local laws regarding this.
-Individual states are different, like (example).
-Make sure you know what your state will require you to do.
 
-Here's a [good summary article for Canada:](https://www.lawnow.org/all-is-not-lost-law-lost-and-found/)
+
+Here's a [good summary article for Canada](https://www.lawnow.org/all-is-not-lost-law-lost-and-found/)
 
 
 
@@ -144,7 +146,7 @@ Here's a [good summary article for Canada:](https://www.lawnow.org/all-is-not-lo
 - Guideline of basic data to capture
   - When you get an item (item found) "I've found this":
 	1. Name of item
-	2. Descritpion
+	2. Description
 	3. Location found
 	4. approximate time found
 	5. Finder contact phone (optional)
