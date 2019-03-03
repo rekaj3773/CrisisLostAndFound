@@ -100,12 +100,12 @@ Here's a [good summary article for Canada](https://www.lawnow.org/all-is-not-los
    - Secure a table and comfortable chairs.  
      - If all goes according to plan, you're going to be there for some time so get comfortable.
    - Consider lodgings.  
-     - Are you in a cot at the Lost and Found site.  Probably not.  And please don't sleep in the truck.  The police and neighbors will get upset after a day or two of this.  
+     - Are you in a cot at the Lost and Found site?  Probably not.  And please don't sleep in the truck.  The police and neighbors will get upset after a day or two of this.  
      - Your enthusiam for leading and continuing this Lost and Found effort must remain at a high.  Try to find lodgings nearby to sleep comfortably.
       - Important note: This may be VERY hard to come by as lodgings typically grow scarce during crisis.  Plan accordingly.  (I don't mind asking to borrow a camper and set up shop )
    - Consider having some water and/or other offerings donated.  
      - Many people have been through quite a lot, and even if you do not have their 
-			missing item, a gesture or water can go a long way in unmeasurable conforting.
+			missing item, a gesture or water can go a long way in unmeasurable comforting.
    - Consider getting postage donated
      - You might be able to send out some items to 
 			people who have been displaced or traveled out of driving range
