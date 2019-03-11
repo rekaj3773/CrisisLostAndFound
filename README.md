@@ -8,8 +8,11 @@
 *You see mementos showing up miles away.*  
 *You open your eyes and decide you are going to help.*  
 
+You can **wade** into a tragedy, **walk** into the tragedy or **DIVE** into the tragedy
+
 ### Starting a Lost and Found after a Crisis.
 Use it as a 'How-to' guideline if you want to set up your own Lost and Found and help.
+If you really want to, you can manage it from your couch.
 
 #### Disclaimer
 I am just your average guy.  I don't know everything, just have put some thoughts towards this topic.  If you have items to add, please create a pull request and add them!
@@ -17,7 +20,7 @@ I am just your average guy.  I don't know everything, just have put some thought
 #### The Big Questions
 
 ##### Big question 1: Are you sure about this?
-This commitment can take a lot of time.  Perhaps worse than trying to be helpful is being half helpful.  
+This commitment can take a lot of time.  And it's a ton of work. Perhaps worse than trying to be helpful is being half helpful.  
 If you are invested, you have to be all in.  Committing to a Lost and Found is not an opportunity for a photoshoot and pull out.
 
 ##### Big question 2: Are you going to travel to the location?
@@ -118,6 +121,7 @@ Here's a [good summary article for Canada](https://www.lawnow.org/all-is-not-los
    - Feel free to advertise using low cost (like some Facebook advertising if you have the budget) or no cost mechanisms (like Craigslist posts) to point people to your Facebook page.
    - Create pictures of FOUND  items.  Create postings of LOST items.
    - Encourage friends to share.
+   - *Note: We discovered that sometimes multiple digital lost and Founds can bring out less noble motives of the organizers and they fight over credit instead of focusing on collaboration. If you are collaborating with other organizations creating a Lost and Found, choose wisely.*
 		
 	
 - Determining what items to display: 
@@ -167,7 +171,9 @@ Here's a [good summary article for Canada](https://www.lawnow.org/all-is-not-los
 
 - Consider a disposal strategy.  
     - Look at everything twice.  Some things you get will be trash.  Other items may look like trash to you but may be a very special something for someone else.
-	  - Having a guideline such as "Dispose of items as follows: Agreed by 2 or more staff as rubbish or unrepairable.  Estimated value at less than one dollar. Quality, poor."
+    - Having a guideline such as "Dispose of items as follows: Agreed by 2 or more staff as rubbish or unrepairable.  Estimated value at less than one dollar. Quality, poor."
+    - You may be tempted to immediately throw some things away.  Believe it or not, tragedies like a hurricane obliterate people's lives.  Sometimes what seems like junk to you (such as a torn book) is heartbreakingly important to return to someone.
+    - If you feel an item should be marked for disposal (say estimated value of less than one dollar and in poor quality), place those items in a bag and store them for a certain period of time (30 days), then dispose as necessary.
 
  - Consider your end strategy.	
 	 - At some point, you will need to leave.  You may get burnt out, you may have used up your vacation days at work or you may notice that the crisis is clearning.  
@@ -177,4 +183,11 @@ Here's a [good summary article for Canada](https://www.lawnow.org/all-is-not-los
 	 - They may allow for any uncollected items to be held for extended duration, after you leave, before being donated or trashed.
 
 #### Credits
-I could not have done this without the encouragement of Jeannie Esti.  Her sharing details and lost and found ideas has been crucial to this project!
+I could not have done this without the encouragement of Jeannie Esti.  She created For Shore Her sharing details and lost and found ideas she implemented successfully for hurricane Sandy has been crucial to this project!  Her success story returned over 7000 pieces and inspired me to create this framework.  Check out [For Shore](https://www.facebook.com/forshorephotos) on Facebook. 
+
+> When a place you love, that you carry in your heart no matter where you live, gets struck by tragedy life stops. 
+> My family was blessed to have limited impact compared to the people around us in the Jersey Shore community we love.
+> Being a part of the reconciliation of peoples' belongings no matter how big or how small was an honor,
+> a labor of love and a source of community healing. - Jeannie Esti
+
+
