@@ -2,6 +2,8 @@
 ## Organize Lost and Found during a Crisis
 
 
+<img src="lostAndFoundImages/lostWeddingPicture.jpg" alt="Lost Wedding Picture" width="400" />
+
 *Another terrible story is unfolding of loss and grief.*  
 *You click off the news.*  
 *You close your eyes.*  
@@ -16,6 +18,8 @@ If you really want to, you can manage it from your couch.
 
 #### Disclaimer
 I am just your average guy.  I don't know everything, just have put some thoughts towards this topic.  If you have items to add, please create a pull request and add them!
+
+<img src="lostAndFoundImages/lostDogPicture.jpg" alt="Lost Dog Picture" width="400" />
 
 #### The Big Questions
 
@@ -46,7 +50,7 @@ Pro note: Most spreadsheets like excel have a row limit.  Excel is 2 million row
 Is it just you?  You might be in for more work than you expected.  And what do you do when you need a break but the show must go on?
 Is it a team?  A team is helpful, but now you are a manager, adding in a whole new wrinkle.
 
-
+<img src="lostAndFoundImages/lostTeamPicture.jpg" alt="Lost Team Picture" width="400" />
 
 #### Rules and Best Practices
 
@@ -74,7 +78,7 @@ if you're not in the US.  Please make sure you consult your national and local l
 
 Here's a [good summary article for Canada](https://www.lawnow.org/all-is-not-lost-law-lost-and-found/)
 
-
+<img src="lostAndFoundImages/glovesAndNecklace.jpg" alt="Lost Gloves and Necklace" width="400" />
 
 *Now the best practices.*
 
@@ -141,6 +145,8 @@ Here's a [good summary article for Canada](https://www.lawnow.org/all-is-not-los
     - Remember, not everyone is a saint but try not to assume the worst.
     - Truth is, at some point you will get something wrong and give away the wrong thing to the wrong person.  In general, sentimental things are often not targeted.  That means, reducing 
 
+<img src="lostAndFoundImages/lostring.jpg" alt="Lost Ring" width="400" />
+
  - Finders' claims:
    - You will sometimes find a person who requests to keep the item in the case no owner is found.  This happens especially with cash or items of high monetary value. 
 	  - Don't side eye them.  This is a perfectly fine request and encourages items to be turned in instead of pocketed unethically.
@@ -167,7 +173,7 @@ Here's a [good summary article for Canada](https://www.lawnow.org/all-is-not-los
 	This seemingly simple interaction can get rather complicated.  It may be easiest to view it on a diagram.
         ![Flowchart](https://github.com/rekaj3773/CrisisLostAndFound/blob/master/flowchartV1.png)
   
-
+<img src="lostAndFoundImages/photos.jpg" alt="Lost Photos" width="400" />
 
 - Consider a disposal strategy.  
     - Look at everything twice.  Some things you get will be trash.  Other items may look like trash to you but may be a very special something for someone else.
@@ -182,6 +188,9 @@ Here's a [good summary article for Canada](https://www.lawnow.org/all-is-not-los
 	 - Usually a written request and permission can be granted by a local civic organization such as YMCA.
 	 - They may allow for any uncollected items to be held for extended duration, after you leave, before being donated or trashed.
 
+<img src="lostAndFoundImages/americanFlag.jpg" alt="Lost American Flag" width="400" />
+
+
 #### Credits
 I could not have done this without the encouragement of Jeannie Esti.  She created For Shore Her sharing details and lost and found ideas she implemented successfully for hurricane Sandy has been crucial to this project!  Her success story returned over 7000 pieces and inspired me to create this framework.  Check out [For Shore](https://www.facebook.com/forshorephotos) on Facebook. 
 
@@ -189,5 +198,7 @@ I could not have done this without the encouragement of Jeannie Esti.  She creat
 > My family was blessed to have limited impact compared to the people around us in the Jersey Shore community we love.
 > Being a part of the reconciliation of peoples' belongings no matter how big or how small was an honor,
 > a labor of love and a source of community healing. - Jeannie Esti
+
+<img src="lostAndFoundImages/mermaid.jpg" alt="Lost Mermaid" width="400" />
 
 
